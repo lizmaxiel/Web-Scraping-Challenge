@@ -1,4 +1,4 @@
-# Web-Scrapping-Challenge
+# Web-Scraping-Challenge
 
 For this assignmnet I applied knowledge of identifying HTML elements, extracting information, and working with automated browsing. We use this information to extract valuable data. 
 
